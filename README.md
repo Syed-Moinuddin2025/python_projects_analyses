@@ -11,7 +11,7 @@
 - Identify top categories and pricing strategies
 - 📊 Tools: Pandas, Matplotlib, Seaborn
 
-➡️ [View Project](./01_Apple_Store_Analysis)
+➡️ [View Project](./01_Apple_Store_Analysis) 
 
 ---
 

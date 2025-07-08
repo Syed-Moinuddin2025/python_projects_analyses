@@ -1,6 +1,6 @@
  # 🛍️ Diwali Sales Analysis — 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Syed-Moinuddin2025/python_Journey/main/3_Diwali_Sales_Analysis/Images/image101.png" alt="Diwali Sales Banner" width="800" height="auto">
+  <img src="https://github.com/Syed-Moinuddin2025/python_projects_analyses/blob/main/02_Diwali_Sales_Analysis/Images/diwali.png" alt="Diwali Sales Banner" width="800" height="auto">
 </div>
 
  
