@@ -75,7 +75,7 @@ The dataset contains order-level sales information with the following key column
 </div>
 
 <div align="center">
-  <img src="https://github.com/Syed-Moinuddin2025/python_Journey/blob/main/E_commerce_%20sales_%20analysis/Images/Category.png" width="400">
+  <img src="https://github.com/Syed-Moinuddin2025/python_projects_analyses/blob/main/04_Ecommerce_Sales_Analysis/Images/Category.png" width="400">
   <p>Pie Chart: Category-wise Sales Distribution</p>
 </div>
 
