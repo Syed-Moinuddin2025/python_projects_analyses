@@ -12,6 +12,7 @@
 - 📊 Tools: Pandas, Matplotlib, Seaborn
 
 ➡️ [View Project](./01_Apple_Store_Analysis) 
+
 ---
 
 ### 🪔 02. Diwali Sales Analysis
