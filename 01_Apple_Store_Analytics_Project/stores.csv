@@ -1,0 +1,350 @@
+store_id,store_name,city,country
+1,Apple Store Saket,New Delhi,India
+10,Apple Store BKC,Mumbai,India
+100,Apple Store Canberra,Canberra,Australia
+101,Apple Store Perth,Perth,Australia
+102,Apple Store Canberra,Canberra,Australia
+103,Apple Store Christchurch,Christchurch,New Zealand
+104,Apple Store Wellington,Wellington,New Zealand
+105,Apple Store New York,New York,United States
+106,Apple Store Los Angeles,Los Angeles,United States
+107,Apple Store Chicago,Chicago,United States
+108,Apple Store Houston,Houston,United States
+109,Apple Store Phoenix,Phoenix,United States
+11,Apple Store Seoul,Seoul,South Korea
+110,Apple Store Philadelphia,Philadelphia,United States
+111,Apple Store San Antonio,San Antonio,United States
+112,Apple Store San Diego,San Diego,United States
+113,Apple Store Dallas,Dallas,United States
+114,Apple Store San Jose,San Jose,United States
+115,Apple Store Austin,Austin,United States
+116,Apple Store Jacksonville,Jacksonville,United States
+117,Apple Store Fort Worth,Fort Worth,United States
+118,Apple Store Columbus,Columbus,United States
+119,Apple Store Charlotte,Charlotte,United States
+12,Apple Store Barcelona,Barcelona,Spain
+120,Apple Store San Francisco,San Francisco,United States
+121,Apple Store Indianapolis,Indianapolis,United States
+122,Apple Store Seattle,Seattle,United States
+123,Apple Store Denver,Denver,United States
+124,Apple Store Washington,Washington,United States
+125,Apple Store Boston,Boston,United States
+126,Apple Store El Paso,El Paso,United States
+127,Apple Store Nashville,Nashville,United States
+128,Apple Store Detroit,Detroit,United States
+129,Apple Store Oklahoma City,Oklahoma City,United States
+13,Apple Store Rome,Rome,Italy
+130,Apple Store Portland,Portland,United States
+131,Apple Store Las Vegas,Las Vegas,United States
+132,Apple Store Memphis,Memphis,United States
+133,Apple Store Louisville,Louisville,United States
+134,Apple Store Baltimore,Baltimore,United States
+135,Apple Store Milwaukee,Milwaukee,United States
+136,Apple Store Albuquerque,Albuquerque,United States
+137,Apple Store Tucson,Tucson,United States
+138,Apple Store Fresno,Fresno,United States
+139,Apple Store Mesa,Mesa,United States
+14,Apple Store São Paulo,São Paulo,Brazil
+140,Apple Store Sacramento,Sacramento,United States
+141,Apple Store Atlanta,Atlanta,United States
+142,Apple Store Kansas City,Kansas City,United States
+143,Apple Store Colorado Springs,Colorado Springs,United States
+144,Apple Store Miami,Miami,United States
+145,Apple Store Raleigh,Raleigh,United States
+146,Apple Store Omaha,Omaha,United States
+147,Apple Store Orlando,Orlando,United States
+148,Apple Store Tampa,Tampa,United States
+149,Apple Store Nashville,Nashville,United States
+15,Apple Store Johannesburg,Johannesburg,South Africa
+150,Apple Store Cleveland,Cleveland,United States
+151,Apple Store Sacramento,Sacramento,United States
+152,Apple Store Baltimore,Baltimore,United States
+153,Apple Store Salt Lake City,Salt Lake City,United States
+154,Apple Store Kansas City,Kansas City,United States
+155,Apple Store Cincinnati,Cincinnati,United States
+156,Apple Store Milwaukee,Milwaukee,United States
+157,Apple Store Raleigh,Raleigh,United States
+158,Apple Store Omaha,Omaha,United States
+159,Apple Store Colorado Springs,Colorado Springs,United States
+16,Apple Store Zurich,Zurich,Switzerland
+160,Apple Store Virginia Beach,Virginia Beach,United States
+161,Apple Store Minneapolis,Minneapolis,United States
+162,Apple Store Arlington,Arlington,United States
+163,Apple Store New Orleans,New Orleans,United States
+164,Apple Store Wichita,Wichita,United States
+165,Apple Store Anaheim,Anaheim,United States
+166,Apple Store Honolulu,Honolulu,United States
+167,Apple Store Tampa Bay,Tampa Bay,United States
+168,Apple Store Aurora,Aurora,United States
+169,Apple Store Bakersfield,Bakersfield,United States
+17,Apple Store Amsterdam,Amsterdam,Netherlands
+170,Apple Store Corpus Christi,Corpus Christi,United States
+171,Apple Store Plano,Plano,United States
+172,Apple Store Irvine,Irvine,United States
+173,Apple Store Fremont,Fremont,United States
+174,Apple Store Rochester,Rochester,United States
+175,Apple Store Modesto,Modesto,United States
+176,Apple Store Spokane,Spokane,United States
+177,Apple Store Tacoma,Tacoma,United States
+178,Apple Store Gilbert,Gilbert,United States
+179,Apple Store Reno,Reno,United States
+18,Apple Store Istanbul,Istanbul,Turkey
+180,Apple Store Hialeah,Hialeah,United States
+181,Apple Store Garland,Garland,United States
+182,Apple Store Irving,Irving,United States
+183,Apple Store Chesapeake,Chesapeake,United States
+184,Apple Store Scottsdale,Scottsdale,United States
+185,Apple Store North Las Vegas,North Las Vegas,United States
+186,Apple Store Baton Rouge,Baton Rouge,United States
+187,Apple Store Lubbock,Lubbock,United States
+188,Apple Store Durham,Durham,United States
+189,Apple Store Madison,Madison,United States
+19,Apple Store Bangkok,Bangkok,Thailand
+190,Apple Store Laredo,Laredo,United States
+191,Apple Store Boise,Boise,United States
+192,Apple Store Chandler,Chandler,United States
+193,Apple Store Winston–Salem,WinstonSalem,United States
+194,Apple Store Garland North,Garland,United States
+195,Apple Store Glendale,Glendale,United States
+196,Apple Store Norfolk,Norfolk,United States
+197,Apple Store Hialeah West,Hialeah,United States
+198,Apple Store Akron,Akron,United States
+199,Apple Store Jersey City,Jersey City,United States
+2,Apple Store London,London,UK
+20,Apple Store Kuala Lumpur,Kuala Lumpur,Malaysia
+200,Apple Store Lincoln,Lincoln,United States
+201,Apple Store Edinburgh,Edinburgh,UK
+202,Apple Store Birmingham,Birmingham,UK
+203,Apple Store Glasgow,Glasgow,UK
+204,Apple Store Cardiff,Cardiff,UK
+205,Apple Store Oslo Central,Oslo,Norway
+206,Apple Store Bergen,Bergen,Norway
+207,Apple Store Hamburg,Hamburg,Germany
+208,Apple Store Munich,Munich,Germany
+209,Apple Store Lyon,Lyon,France
+21,Apple Store Vienna,Vienna,Austria
+210,Apple Store Nice,Nice,France
+211,Apple Store Buffalo,Buffalo,United States
+212,Apple Store St. Paul,St. Paul,United States
+213,Apple Store Newark,Newark,United States
+214,Apple Store Fort Wayne,Fort Wayne,United States
+215,Apple Store St. Petersburg,St. Petersburg,United States
+216,Apple Store Chula Vista,Chula Vista,United States
+217,Apple Store Garland South,Garland,United States
+218,Apple Store Lubbock West,Lubbock,United States
+219,Apple Store Reno West,Reno,United States
+22,Apple Store Brussels,Brussels,Belgium
+220,Apple Store Boise South,Boise,United States
+221,Apple Store Scottsdale North,Scottsdale,United States
+222,Apple Store Jersey City West,Jersey City,United States
+223,Apple Store Glendale East,Glendale,United States
+224,Apple Store Norfolk South,Norfolk,United States
+225,Apple Store Winston–Salem West,Winston–Salem,United States
+226,Apple Store Akron South,Akron,United States
+227,Apple Store Lincoln East,Lincoln,United States
+228,Apple Store Irvine South,Irvine,United States
+229,Apple Store Fremont West,Fremont,United States
+23,Apple Store Warsaw,Warsaw,Poland
+230,Apple Store Des Moines North,Des Moines,United States
+231,Apple Store Birmingham East,Birmingham,United States
+232,Apple Store Baton Rouge South,Baton Rouge,United States
+233,Apple Store Laredo North,Laredo,United States
+234,Apple Store Boise North,Boise,United States
+235,Apple Store Madison East,Madison,United States
+236,Apple Store Durham West,Durham,United States
+237,Apple Store Garland West,Garland,United States
+238,Apple Store Plano North,Plano,United States
+239,Apple Store Anchorage,Anchorage,United States
+24,Apple Store Prague,Prague,Czech Republic
+240,Apple Store Lexington,Lexington,United States
+241,Apple Store Stockton,Stockton,United States
+242,Apple Store Henderson,Henderson,United States
+243,Apple Store Riverside,Riverside,United States
+244,Apple Store Chandler Central,Chandler,United States
+245,Apple Store Toledo,Toledo,United States
+246,Apple Store Greensboro,Greensboro,United States
+247,Apple Store Lubbock Central,Lubbock,United States
+248,Apple Store Irving South,Irving,United States
+249,Apple Store Baton Rouge North,Baton Rouge,United States
+25,Apple Store Athens,Athens,Greece
+250,Apple Store Chandler West,Chandler,United States
+251,Apple Store Fremont East,Fremont,United States
+252,Apple Store Irvine East,Irvine,United States
+253,Apple Store Garland East,Garland,United States
+254,Apple Store Jersey City South,Jersey City,United States
+255,Apple Store Glendale North,Glendale,United States
+256,Apple Store Chesapeake South,Chesapeake,United States
+257,Apple Store Madison West,Madison,United States
+258,Apple Store Jeddah Red Sea,Jeddah,Saudi Arabia
+259,Apple Store Scottsdale West,Scottsdale,United States
+26,Apple Store Helsinki,Helsinki,Finland
+260,Apple Store Reno South,Reno,United States
+261,Apple Store Akron West,Akron,United States
+262,Apple Store Lincoln South,Lincoln,United States
+263,Apple Store Buffalo East,Buffalo,United States
+264,Apple Store Lexington West,Lexington,United States
+265,Apple Store Riverside East,Riverside,United States
+266,Apple Store Aurora North,Aurora,United States
+267,Apple Store Richmond,Richmond,United States
+268,Apple Store Spokane Valley,Spokane Valley,United States
+269,Apple Store Huntsville,Huntsville,United States
+27,Apple Store Oslo,Oslo,Norway
+270,Apple Store Grand Rapids,Grand Rapids,United States
+271,Apple Store Tallahassee,Tallahassee,United States
+272,Apple Store Fayetteville,Fayetteville,United States
+273,Apple Store Tempe,Tempe,United States
+274,Apple Store Springfield,Springfield,United States
+275,Apple Store Overland Park,Overland Park,United States
+276,Apple Store Oxnard,Oxnard,United States
+277,Apple Store Frisco,Frisco,United States
+278,Apple Store Bridgeport,Bridgeport,United States
+279,Apple Store Moreno Valley,Moreno Valley,United States
+28,Apple Store Copenhagen,Copenhagen,Denmark
+280,Apple Store Fontana,Fontana,United States
+281,Apple Store Columbus Georgia,Columbus,United States
+282,Apple Store Shreveport,Shreveport,United States
+283,Apple Store Amarillo,Amarillo,United States
+284,Apple Store Montgomery,Montgomery,United States
+285,Apple Store Yonkers,Yonkers,United States
+286,Apple Store Little Rock,Little Rock,United States
+287,Apple Store Augusta,Augusta,United States
+288,Apple Store Mobile,Mobile,United States
+289,Apple Store Grand Prairie,Grand Prairie,United States
+29,Apple Store Stockholm,Stockholm,Sweden
+290,Apple Store Knoxville,Knoxville,United States
+291,Apple Store Worcester,Worcester,United States
+292,Apple Store Brownsville,Brownsville,United States
+293,Apple Store Newport News,Newport News,United States
+294,Apple Store Santa Clarita,Santa Clarita,United States
+295,Apple Store Providence,Providence,United States
+296,Apple Store Fort Lauderdale,Fort Lauderdale,United States
+297,Apple Store Oceanside,Oceanside,United States
+298,Apple Store Rancho Cucamonga,Rancho Cucamonga,United States
+299,Apple Store Temecula,Temecula,United States
+3,Apple Store Dubai,Dubai,UAE
+30,Apple Store Budapest,Budapest,Hungary
+300,Apple Store Ontario,Ontario,United States
+301,Apple Store Port Moresby,Port Moresby,Papua New Guinea
+302,Apple Store Wellington Central,Wellington,New Zealand
+303,Apple Store Christchurch East,Christchurch,New Zealand
+304,Apple Store Auckland North,Auckland,New Zealand
+305,Apple Store Hamilton Central,Hamilton,New Zealand
+306,Apple Store Dunedin South,Dunedin,New Zealand
+307,Apple Store Invercargill West,Invercargill,New Zealand
+308,Apple Store Tauranga Bayfair,Tauranga,New Zealand
+309,Apple Store Napier Hastings,Napier Hastings,New Zealand
+31,Apple Store Dublin,Dublin,Ireland
+310,Apple Store Rotorua Lakeside,Rotorua,New Zealand
+311,Apple Store Honolulu,Honolulu,United States
+312,Apple Store Anchorage,Anchorage,United States
+313,Apple Store Fairbanks,Fairbanks,United States
+314,Apple Store Juneau,Juneau,United States
+315,Apple Store Sitka,Sitka,United States
+316,Apple Store Ketchikan,Ketchikan,United States
+317,Apple Store Kodiak,Kodiak,United States
+318,Apple Store Bethel,Bethel,United States
+319,Apple Store Nome,Nome,United States
+32,Apple Store Mexico City,Mexico City,Mexico
+320,Apple Store Barrow,Barrow,United States
+321,Apple Store New York1,New York,United States
+322,Apple Store New York2,New York,United States
+323,Apple Store New York3,New York,United States
+324,Apple Store New York4,New York,United States
+325,Apple Store New Thousand Oaks,Thousand Oaks,United States
+326,Apple Store New Burbank,Burbank,United States
+327,Apple Store Galleria,Glendale,United States
+328,Apple Store New West Covina,West Covina,United States
+329,Apple Store New San Marcos,San Marcos,United States
+33,Apple Store Buenos Aires,Buenos Aires,Argentina
+330,Apple Store New Chino Hills,Chino Hills,United States
+331,Apple Store  Sindelfingen,Sindelfingen,Germany
+332,Apple Store  Stuttgart,Stuttgart,Germany
+333,Apple Store  Berlin,Berlin,Germany
+334,Apple Store  Munich,Munich,Germany
+335,Apple Store  Hamburg,Hamburg,Germany
+336,Apple Store  Frankfurt,Frankfurt,Germany
+337,Apple Store  Cologne,Cologne,Germany
+338,Apple Store  Dusseldorf,Dusseldorf,Germany
+339,Apple Store  Leipzig,Leipzig,Germany
+34,Apple Store Santiago,Santiago,Chile
+340,Apple Store  Dresden,Dresden,Germany
+341,Apple Store  Nuremberg,Nuremberg,Germany
+342,Apple Store  Hanover,Hanover,Germany
+343,Apple Store  Bremen,Bremen,Germany
+344,Apple Store  Essen,Essen,Germany
+345,Apple Store  Dortmund,Dortmund,Germany
+346,Apple Store  Mannheim,Mannheim,Germany
+347,Apple Store  Wiesbaden,Wiesbaden,Germany
+348,Apple Store  Bonn,Bonn,Germany
+349,Apple Store  Karlsruhe,Karlsruhe,Germany
+35,Apple Store Lima,Lima,Peru
+36,Apple Store Bogota,Bogota,Colombia
+37,Apple Store Caracas,Caracas,Venezuela
+38,Apple Store Panama City,Panama City,Panama
+39,Apple Store San Juan,San Juan,Puerto Rico
+4,Apple Store Tokyo,Tokyo,Japan
+40,Apple Store Doha,Doha,Qatar
+41,Apple Store Riyadh,Riyadh,Saudi Arabia
+42,Apple Store Kuwait City,Kuwait City,Kuwait
+43,Apple Store Muscat,Muscat,Oman
+44,Apple Store Manama,Manama,Bahrain
+45,Apple Store Tehran,Tehran,Iran
+46,Apple Store Baghdad,Baghdad,Iraq
+47,Apple Store Cairo,Cairo,Egypt
+48,Apple Store Nairobi,Nairobi,Kenya
+49,Apple Store Casablanca,Casablanca,Morocco
+5,Apple Store Sydney,Sydney,Australia
+50,Apple Store Lagos,Lagos,Nigeria
+51,Apple Store Accra,Accra,Ghana
+52,Apple Store Algiers,Algiers,Algeria
+53,Apple Store Kampala,Kampala,Uganda
+54,Apple Store Rabat,Rabat,Morocco
+55,Apple Store Lusaka,Lusaka,Zambia
+56,Apple StoreAl Maryah Island,Abu Dhabi,UAE
+57,Apple Store Dakar,Dakar,Senegal
+58,Apple Store Tunis,Tunis,Tunisia
+59,Apple Store Beirut,Beirut,Lebanon
+6,Apple Store Paris,Paris,France
+60,Apple Store Tbilisi,Tbilisi,Georgia
+61,Apple Store Yerevan,Yerevan,Armenia
+62,Apple Store Baku,Baku,Azerbaijan
+63,Apple Store Hanoi,Hanoi,Vietnam
+64,Apple Store Manila,Manila,Philippines
+65,Apple Store Jakarta,Jakarta,Indonesia
+66,Apple Store Ho Chi Minh City,Ho Chi Minh City,Vietnam
+67,Apple Store Taipei,Taipei,Taiwan
+68,Apple Store Islamabad,Islamabad,Pakistan
+69,Apple Store Dhaka,Dhaka,Bangladesh
+7,Apple Store Berlin,Berlin,Germany
+70,Apple Store Colombo,Colombo,Sri Lanka
+71,Apple Store Place Ste-Foy,Quebec City,Canada
+72,Apple Store Masonville,London,Canada
+73,Apple Store Ulaanbaatar,Ulaanbaatar,Mongolia
+74,Apple Store Ashgabat,Ashgabat,Turkmenistan
+75,Apple Store Tashkent,Tashkent,Uzbekistan
+76,Apple Store Bishkek,Bishkek,Kyrgyzstan
+77,Apple Store Dushanbe,Dushanbe,Tajikistan
+78,Apple Store Yorkdale,Toronto,Canada
+79,Apple Store Reykjavik,Reykjavik,Iceland
+8,Apple Store Toronto,Toronto,Canada
+80,Apple Store Tallinn,Tallinn,Estonia
+81,Apple Store Market Mall,Calgary,Canada
+82,Apple Store Vilnius,Vilnius,Lithuania
+83,Apple Store Luxembourg City,Luxembourg City,Luxembourg
+84,Apple Store Monaco,Monaco,Monaco
+85,Apple Store Andorra la Vella,Andorra la Vella,Andorra
+86,Apple Store Valletta,Valletta,Malta
+87,Apple Store Ljubljana,Ljubljana,Slovenia
+88,Apple Store Zagreb,Zagreb,Croatia
+89,Apple Store Sherway Gardens,Toronto,Canada
+9,Apple Store Singapore,Singapore,Singapore
+90,Apple Store  Fairview,Toronto,Canada
+91,Apple Store Orchard Road,Singapore,Singapore
+92,Apple StoreMarina Bay Sands,Singapore,Singapore
+93,Apple Store  Dubai Mall,Dubai,UAE
+94,Apple Store Shibuya,Tokyo,Japan
+95,Apple Store Kingston,Kingston,Jamaica
+96,Apple Store Port of Spain,Port of Spain,Trinidad and Tobago
+97,Apple Store Bridgetown,Bridgetown,Barbados
+98,Apple Store Al Mall Emirates,Dubai,UAE
+99,Apple Store Marunouchi,Tokyo,Japan

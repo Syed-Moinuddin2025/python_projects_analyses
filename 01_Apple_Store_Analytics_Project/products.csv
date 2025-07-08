@@ -1,0 +1,211 @@
+product_id,product_name,category_id,launch_date,price
+101,iPhone 13 Mini,1,2021-09-14,699
+102,"MacBook Pro M1 13""",2,2021-10-18,1299
+103,iPad Mini 6,3,2021-09-24,499
+104,Apple Watch Series 7,4,2021-10-15,399
+105,iPhone 14 Pro,1,2022-09-16,999
+106,MacBook Air M2,2,2022-07-15,1199
+107,"iPad Pro M1 11""",3,2021-05-21,799
+108,AirPods Pro,4,2019-10-30,249
+109,iPhone 12,1,2020-10-23,799
+110,MacBook Air M1,2,2020-11-17,999
+111,iPhone 13 Mini,1,2021-09-14,699
+112,"MacBook Pro M1 13""",2,2021-10-18,1299
+113,iPad Mini 6,3,2021-09-24,499
+114,AirPods Pro 2,4,2022-09-23,249
+115,iPhone SE (2022),1,2022-03-18,429
+116,Mac Studio (M1 Max),2,2022-03-08,1999
+117,iPad 10th Gen,3,2022-10-26,449
+118,Apple Pencil 2,4,2018-11-07,129
+119,iPhone 14,1,2022-09-16,799
+120,"MacBook Pro M2 14""",2,2023-01-17,1999
+121,"iPad Pro M2 12.9""",3,2022-10-26,1099
+122,Apple Watch Ultra,4,2022-09-23,799
+123,iPhone 14 Plus,1,2022-10-07,899
+124,MacBook Air M1,2,2020-11-17,999
+125,iPad Air 4,3,2020-10-23,599
+126,Magic Mouse 2,4,2020-08-05,79
+127,iPhone 15 Pro Max,1,2023-09-22,1199
+128,MacBook Pro M3 Max,2,2024-10-12,3499
+129,iPad Mini 7,3,2024-09-28,529
+130,AirPods Max,4,2020-12-15,549
+131,iPhone XR,1,2018-10-26,599
+132,Mac Mini M2,2,2023-01-24,699
+133,iPad 9th Gen,3,2021-09-24,329
+134,MagSafe Duo Charger,4,2020-12-08,129
+135,iPhone 12,1,2020-10-23,799
+136,"MacBook Pro 15"" Retina",2,2019-05-21,1799
+137,"iPad Pro 11""",3,2018-11-07,799
+138,Apple Smart Keyboard,4,2019-05-21,159
+139,iPhone 11,1,2019-09-20,699
+140,MacBook Air Intel,2,2019-07-09,1099
+141,iPad Mini 5,3,2019-03-18,399
+142,Apple Watch Series 7,4,2021-10-15,399
+143,iPhone XS,1,2018-09-21,999
+144,Mac Pro (2019),2,2019-12-10,5999
+145,iPad Pro M1,3,2021-05-21,1099
+146,AirPods 3rd Gen,4,2021-10-26,179
+147,iPhone X,1,2017-11-03,999
+148,"MacBook Retina 12""",2,2017-06-05,1299
+149,iPad Air 3,3,2019-03-18,499
+150,Apple Watch Series 6,4,2020-09-18,399
+151,iPhone 8,1,2017-09-22,599
+152,"iMac 24"" M1",2,2021-05-21,1299
+153,iPad 8th Gen,3,2020-09-18,329
+154,Apple Watch Series 5,4,2019-09-20,399
+155,iPhone 12 Mini,1,2020-11-13,699
+156,"MacBook Pro 13"" Intel",2,2020-05-04,1299
+157,"iPad Pro M2 11""",3,2022-10-26,899
+158,Apple Pencil USB-C,4,2023-10-17,79
+159,iPhone 15 Plus,1,2023-09-22,899
+160,MacBook Pro M3 Pro,2,2024-10-12,2899
+161,"iPad Pro M4 13""",3,2025-05-15,1299
+162,Apple Watch Series 9,4,2023-09-22,399
+163,iPhone 13 Pro,1,2021-09-24,999
+164,"MacBook Pro M2 Max 16""",2,2023-02-01,3199
+165,iPad 11th Gen,3,2023-10-18,349
+166,Apple AirTag (4 Pack),4,2021-04-30,99
+167,iPhone 14 Pro Max,1,2022-09-16,1099
+168,"MacBook Air 15"" M2",2,2023-06-13,1299
+169,iPad Air M2,3,2024-06-01,699
+170,Apple Smart Folio Case,4,2021-11-10,79
+171,iPhone 11 Pro,1,2019-09-20,999
+172,Mac Mini M1,2,2020-11-17,699
+173,"iPad Pro 10.5""",3,2017-06-13,649
+174,Magic Trackpad 2,4,2020-05-04,129
+175,iPhone XS Max,1,2018-09-21,1099
+176,"MacBook Air 11""",2,2017-03-20,999
+177,iPad 7th Gen,3,2019-09-25,329
+178,Apple Watch Nike+,4,2021-10-15,429
+179,iPhone 12 Pro,1,2020-10-23,999
+180,Mac Pro M2 Ultra,2,2024-10-20,6999
+181,iPad Air 6,3,2023-06-01,649
+182,AirPods Wireless Charging,4,2019-03-20,199
+183,iPhone 15 Pro,1,2023-09-22,1099
+184,MacBook Studio Display,2,2022-03-08,1599
+185,iPad Mini Cellular,3,2021-09-24,649
+186,Apple USB-C AV Adapter,4,2020-02-01,79
+187,iPhone XR (128GB),1,2018-10-26,649
+188,"MacBook Pro 17""",2,2012-06-12,2299
+189,iPad Air 2,3,2014-10-22,399
+190,Apple Magic Keyboard iPad Pro,4,2021-04-21,299
+191,iPhone 6s Plus,1,2015-09-25,649
+192,"iMac 27"" Retina",2,2020-08-04,1799
+193,iPad 6th Gen,3,2018-03-27,329
+194,Apple Leather Wallet MagSafe,4,2021-10-01,59
+195,iPhone 7,1,2016-09-16,649
+196,"MacBook Air M3 13""",2,2024-06-18,1199
+197,"iPad Pro 12.9"" M4",3,2025-06-10,1399
+198,Apple Watch Hermès,4,2023-09-22,1349
+199,iPhone 8 Plus,1,2017-09-22,699
+200,MacBook Air Retina 2025,2,2025-04-25,1399
+201,iPad Classic (2025),3,2025-10-10,499
+202,Apple Watch SE 3,4,2025-09-18,329
+203,iPhone Ultra,1,2024-10-01,1399
+204,"MacBook Air 12""",2,2025-06-20,999
+205,iPad Studio,3,2024-09-15,949
+206,Magic Keyboard with Touch ID,4,2021-05-25,149
+207,iPhone 15 SE,1,2024-03-22,529
+208,MacBook Air M2 Classic,2,2023-02-10,1249
+209,iPad Paper Edition,3,2025-05-05,599
+210,Apple Watch Explorer Edition,4,2025-09-25,949
+211,iPhone 13 Pro Max,1,2021-09-24,1099
+212,"MacBook Pro 13"" M1",2,2020-11-17,1299
+213,"iPad 10.9""",3,2023-10-17,449
+214,AirPods Lite,4,2024-05-12,149
+215,iPhone 12 Pro Max,1,2020-11-13,1099
+216,Mac Studio M2 Ultra,2,2023-04-15,3999
+217,iPad Pro SE,3,2024-10-11,849
+218,Apple Watch SE GPS,4,2023-09-22,279
+219,iPhone 11 Pro Max,1,2019-09-20,1099
+220,"MacBook Classic 14""",2,2023-12-01,1149
+221,iPad Lite,3,2022-11-11,349
+222,Smart Folio Keyboard,4,2022-06-30,179
+223,iPhone 7 Plus,1,2016-09-16,769
+224,MacBook SE,2,2024-05-01,999
+225,iPad 12th Gen,3,2024-10-22,399
+226,Apple Watch Edition Ceramic,4,2019-09-20,1249
+227,iPhone 6s,1,2015-09-25,599
+228,MacBook Pro Retina 2015,2,2015-03-09,1799
+229,iPad 5th Gen,3,2017-03-24,329
+230,Apple Pencil Grip Accessory,4,2023-02-10,29
+231,iPhone 12 SE,1,2024-04-14,599
+232,Mac Mini Pro,2,2023-10-10,999
+233,iPad Max,3,2025-01-30,1149
+234,Apple Watch Fitness Band,4,2024-03-14,59
+235,iPhone Ultra Max,1,2025-09-10,1399
+236,"MacBook Air SE 13""",2,2025-03-01,899
+237,iPad Vision,3,2025-04-01,999
+238,AirPods Vision Pro,4,2025-05-05,399
+239,iPhone 13 SE,1,2022-09-09,649
+240,MacBook Vision M3,2,2025-05-20,1599
+241,iPad Creative,3,2024-09-01,699
+242,Apple Watch Creative Edition,4,2025-06-06,649
+243,iPhone 16,1,2025-09-24,1099
+244,"MacBook Pro SE 15""",2,2025-07-01,1499
+245,"iPad M3 10.9""",3,2025-08-08,549
+246,Apple HomePod Mini 2,4,2024-11-20,129
+247,iPhone 14c,1,2023-07-01,699
+248,MacBook Go,2,2023-10-15,999
+249,iPad Nova,3,2025-02-10,799
+250,AirPods Studio,4,2023-08-01,349
+251,iPhone Flex,1,2025-11-12,1499
+252,MacBook Slim,2,2024-12-20,1199
+253,iPad Zoom,3,2025-03-14,899
+254,Apple Watch Max Steel,4,2025-09-29,999
+255,iPhone 16 Plus,1,2025-10-01,1199
+256,"MacBook Ultra 17""",2,2025-11-01,2499
+257,iPad Air Light,3,2025-06-10,399
+258,Apple Ring,4,2025-12-01,199
+259,iPhone SE Classic,1,2025-04-10,429
+260,MacBook Duo M3,2,2025-07-20,1699
+261,iPad Air Vision,3,2025-10-10,699
+262,Apple Watch Titan Edition,4,2025-09-30,1199
+263,iPhone 16 Pro Max,1,2025-10-05,1299
+264,MacBook Horizon M4,2,2025-11-01,2099
+265,iPad Nova Pro,3,2025-09-15,899
+266,AirPods Max 2,4,2025-08-25,599
+267,iPhone Air,1,2025-09-22,999
+268,"MacBook SE Retina 14""",2,2025-10-30,1199
+269,iPad Ultra Light,3,2025-11-12,599
+270,Apple Watch Aura,4,2025-12-05,799
+271,iPhone Zoom,1,2025-11-10,1099
+272,MacBook Duo Touch,2,2025-12-15,1999
+273,iPad Canvas,3,2025-10-20,799
+274,Apple Watch Edge,4,2025-11-30,899
+275,iPhone 16c,1,2025-09-19,849
+276,MacBook SE Air Pro,2,2025-10-12,1499
+277,iPad Explore,3,2025-11-08,749
+278,Apple Watch Vapor,4,2025-11-17,699
+279,iPhone Flex Max,1,2025-12-20,1499
+280,MacBook Arch M3,2,2025-12-01,1899
+281,iPad Rise,3,2025-11-05,849
+282,Apple Watch Bolt,4,2025-10-28,649
+283,iPhone Nova,1,2025-10-15,999
+284,MacBook Sky,2,2025-09-30,1399
+285,iPad Note,3,2025-09-22,599
+286,Apple Watch Zen,4,2025-12-12,749
+287,iPhone Vision,1,2025-12-22,1199
+288,MacBook NotePad M3,2,2025-11-25,1099
+289,iPad VisionAir,3,2025-12-04,899
+290,Apple Watch Core,4,2025-12-20,599
+291,iPhone Spark,1,2025-11-03,749
+292,MacBook Mini Duo,2,2025-12-11,999
+293,iPad Express,3,2025-10-05,549
+294,Apple Watch Orbit,4,2025-12-28,799
+295,iPhone Lite,1,2025-09-12,699
+296,MacBook Jet,2,2025-10-22,1299
+297,iPad Moonlight,3,2025-12-01,749
+298,Apple Watch Summit,4,2025-11-24,949
+299,iPhone 16 Mini,1,2025-09-27,799
+300,MacBook Infinity,2,2025-12-15,1699
+301,iPad Aurora,3,2025-12-05,849
+302,Apple Watch Evolve,4,2025-12-30,849
+303,iPhone X Ultra,1,2025-10-17,1399
+304,MacBook Zenith,2,2025-11-08,2299
+305,iPad Touch Pro,3,2025-12-18,899
+306,Apple Watch Infinity Band,4,2025-11-09,679
+307,iPhone Air SE,1,2025-12-09,729
+308,MacBook Edge,2,2025-11-25,1499
+309,iPad Solar,3,2025-10-30,769
+310,Apple Watch Nova Titanium,4,2025-12-31,1049

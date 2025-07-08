@@ -1,0 +1,101 @@
+claim_id,claim_date,sale_id,repair_status
+301,2021-01-10,205,Paid Repaired
+302,2024-06-01,208,Warranty Void
+303,2024-03-15,206,Paid Repaired
+304,2020-12-25,209,Paid Repaired
+305,2023-12-28,207,Warranty Void
+306,2023-08-05,210,Paid Repaired
+307,2022-11-18,211,In Progress
+308,2024-02-14,213,Paid Repaired
+309,2021-04-22,215,Rejected
+310,2023-12-20,217,Paid Repaired
+311,2020-06-10,218,Warranty Void
+312,2025-01-25,220,In Progress
+313,2023-07-30,221,Paid Repaired
+314,2022-09-15,223,In Progress
+315,2024-05-03,225,Rejected
+316,2025-04-01,228,Paid Repaired
+317,2023-03-10,230,In Progress
+318,2021-06-05,232,Warranty Void
+319,2022-07-21,234,Rejected
+320,2024-12-18,236,Paid Repaired
+321,2023-11-09,237,In Progress
+322,2022-05-12,238,Warranty Void
+323,2023-01-17,239,Paid Repaired
+324,2025-02-16,241,Rejected
+325,2021-09-26,243,In Progress
+326,2024-07-04,246,Paid Repaired
+327,2022-01-31,249,Warranty Void
+328,2023-10-02,251,Rejected
+329,2024-03-11,252,In Progress
+330,2025-06-10,255,Paid Repaired
+331,2023-03-28,258,Warranty Void
+332,2024-08-10,261,Paid Repaired
+333,2025-02-01,263,In Progress
+334,2022-11-04,266,Rejected
+335,2023-05-29,269,Paid Repaired
+336,2021-06-08,272,Warranty Void
+337,2024-10-05,274,Paid Repaired
+338,2023-06-12,275,In Progress
+339,2022-04-30,278,Rejected
+340,2025-01-14,279,Warranty Void
+341,2023-02-07,281,In Progress
+342,2022-09-08,283,Paid Repaired
+343,2021-05-19,285,Rejected
+344,2023-11-14,288,Warranty Void
+345,2025-04-22,290,In Progress
+346,2022-12-09,292,Paid Repaired
+347,2023-08-31,294,In Progress
+348,2020-08-03,296,Warranty Void
+349,2024-06-17,298,Rejected
+350,2023-04-01,301,Paid Repaired
+351,2025-01-19,303,In Progress
+352,2022-10-20,305,Warranty Void
+353,2024-02-25,308,Rejected
+354,2023-07-22,310,Paid Repaired
+355,2021-03-18,312,In Progress
+356,2025-05-02,315,Paid Repaired
+357,2023-06-26,318,Rejected
+358,2022-01-11,320,Warranty Void
+359,2023-09-06,322,Paid Repaired
+360,2024-03-19,324,In Progress
+361,2025-06-01,326,Warranty Void
+362,2023-12-12,328,Paid Repaired
+363,2021-09-03,330,Rejected
+364,2024-05-25,333,Paid Repaired
+365,2022-02-27,335,In Progress
+366,2025-06-20,337,Rejected
+367,2024-04-03,338,Warranty Void
+368,2023-10-22,340,Paid Repaired
+369,2022-06-06,342,In Progress
+370,2025-03-14,344,Rejected
+371,2024-07-08,346,Paid Repaired
+372,2023-11-16,348,Warranty Void
+373,2022-01-08,350,In Progress
+374,2025-01-27,351,Rejected
+375,2023-09-11,353,Paid Repaired
+376,2024-03-21,355,In Progress
+377,2022-06-19,356,Warranty Void
+378,2023-04-08,358,Rejected
+379,2025-06-09,359,In Progress
+380,2024-01-02,360,Paid Repaired
+381,2022-02-24,362,Warranty Void
+382,2023-05-06,364,Rejected
+383,2024-09-14,366,Paid Repaired
+384,2021-08-30,368,In Progress
+385,2023-10-06,370,Rejected
+386,2025-02-05,372,Paid Repaired
+387,2022-07-03,374,In Progress
+388,2023-12-31,376,Warranty Void
+389,2024-05-07,378,Rejected
+390,2025-03-03,379,Paid Repaired
+391,2021-06-20,381,In Progress
+392,2023-02-15,383,Warranty Void
+393,2022-10-28,385,Rejected
+394,2024-11-02,387,Paid Repaired
+395,2025-04-16,389,In Progress
+396,2023-01-09,391,Rejected
+397,2022-12-15,393,Warranty Void
+398,2023-07-03,395,Paid Repaired
+399,2024-04-13,397,In Progress
+400,2025-06-30,400,Paid Repaired
