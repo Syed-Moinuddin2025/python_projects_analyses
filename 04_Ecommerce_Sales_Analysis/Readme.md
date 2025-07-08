@@ -70,7 +70,7 @@ The dataset contains order-level sales information with the following key column
 ## 📊 Sample Charts
 
 <div align="center">
-  <img src="https://github.com/Syed-Moinuddin2025/python_Journey/blob/main/E_commerce_%20sales_%20analysis/Images/Monthly_Sales_%20Analysis.png" width="600">
+  <img src="https://github.com/Syed-Moinuddin2025/python_projects_analyses/blob/main/04_Ecommerce_Sales_Analysis/Images/Monthly_Sales_%20Analysis.png" width="600">
   <p>Bar Chart: Monthly Sales Analysis</p>
 </div>
 
