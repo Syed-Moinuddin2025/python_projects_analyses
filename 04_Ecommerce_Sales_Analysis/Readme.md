@@ -1,6 +1,6 @@
 # 🛒 E-commerce Sales Analysis Project
 <div align="center">
-  <img src="https://github.com/Syed-Moinuddin2025/python_Journey/blob/main/E_commerce_%20sales_%20analysis/Images/e-commerce.png" width="800" alt="E-commerce Sales Analysis Banner">
+  <img src="https://github.com/Syed-Moinuddin2025/python_projects_analyses/blob/main/04_Ecommerce_Sales_Analysis/Images/e-commerce.png" width="800" alt="E-commerce Sales Analysis Banner">
 </div>
 
 # A complete data analysis project using Python to explore and visualize key metrics from an E-commerce dataset, including monthly sales, profit trends, category performance, and customer segment insights.
