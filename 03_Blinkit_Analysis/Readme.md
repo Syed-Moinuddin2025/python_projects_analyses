@@ -1,5 +1,8 @@
 # 📦 Blinkit_Analysis_Project
  
+<p align="center">
+  <img src="https://github.com/Syed-Moinuddin2025/python_projects_analyses/blob/main/03_Blinkit_Analysis/Images/blinkit.gif?raw=true" alt="Blinkit GIF" width="700">
+</p>
 
 
 ## 🧠 About the Project
@@ -78,9 +81,9 @@ Open the .ipynb file in Jupyter Notebook or VS Code.
 Make sure required libraries are installed (pip install pandas matplotlib seaborn).
 
 Run each cell to explore insights.
-## Blinkit Project gif
+## Blinkit logo
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Syed-Moinuddin2025/python_projects_analyses/main/03_Blinkit_Analysis/Images/blinkit.gif" width="600">
+  <img src="https://github.com/Syed-Moinuddin2025/python_projects_analyses/blob/main/03_Blinkit_Analysis/blinkit_logo.png" width="500">
 </div>
 
 # ✨ Output Snapshots
