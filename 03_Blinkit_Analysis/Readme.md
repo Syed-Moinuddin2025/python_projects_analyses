@@ -1,5 +1,8 @@
 # 📦 Blinkit_Analysis_Project
  
+<p align="center">
+  <img src="https://github.com/Syed-Moinuddin2025/python_projects_analyses/blob/main/03_Blinkit_Analysis/Images/blinkit.gif?raw=true" alt="Blinkit GIF" width="700">
+</p>
 
 
 ## 🧠 About the Project
