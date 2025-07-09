@@ -81,10 +81,7 @@ Open the .ipynb file in Jupyter Notebook or VS Code.
 Make sure required libraries are installed (pip install pandas matplotlib seaborn).
 
 Run each cell to explore insights.
-## Blinkit logo
-<div align="center">
-  <img src="https://github.com/Syed-Moinuddin2025/python_projects_analyses/blob/main/03_Blinkit_Analysis/blinkit_logo.png" width="500">
-</div>
+ 
 
 # ✨ Output Snapshots
 <div align="center"> <img src="https://github.com/Syed-Moinuddin2025/python_projects_analyses/blob/main/03_Blinkit_Analysis/Images/bestSaleingItemes.png" width="400"> </div>
