@@ -1,8 +1,5 @@
 # 🍕 Pizza Sales Analysis (Python Project)
 
-<p align="center">
-  <img src="https://github.com/Syed-Moinuddin2025/python_projects_analyses/blob/main/05_Pizza_Sales_Analysis/Images/pizza.png" alt="Pizza.png" height="600">
-</p>
 
 
 This project analyzes pizza sales data using Python with pandas, matplotlib, seaborn, and Plotly. We derive business KPIs, sales insights, and powerful visualizations from raw CSV data.
