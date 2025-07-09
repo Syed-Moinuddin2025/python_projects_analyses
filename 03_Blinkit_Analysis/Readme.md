@@ -3,11 +3,11 @@
  <table>
   <tr>
     <td align="left">
-      <img src="https://raw.githubusercontent.com/Syed-Moinuddin2025/python_Journey/main/02_Blinkit_Project_Python/Images/blinkit.gif" width="500">
+      <img src="https://github.com/Syed-Moinuddin2025/python_projects_analyses/blob/main/03_Blinkit_Analysis/Images/blinkit.gif" width="500">
       <br><sub>🔄 Project in Action (GIF)</sub>
     </td>
     <td align="right">
-      <img src="https://raw.githubusercontent.com/Syed-Moinuddin2025/python_Journey/main/02_Blinkit_Project_Python/Images/blinkit.png" width="1000">
+      <img src="https://github.com/Syed-Moinuddin2025/python_projects_analyses/blob/main/03_Blinkit_Analysis/Images/blinkit.png" width="1000">
       <br><sub>📊 Project Banner</sub>
     </td>
   </tr>
@@ -92,16 +92,16 @@ Make sure required libraries are installed (pip install pandas matplotlib seabor
 Run each cell to explore insights.
 ## Blinkit Project gif
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Syed-Moinuddin2025/python_Journey/main/02_Blinkit_Project_Python/Images/blinkit.gif" width="600">
+  <img src="https://raw.githubusercontent.com/Syed-Moinuddin2025/python_projects_analyses/main/03_Blinkit_Analysis/Images/blinkit.gif" width="600">
 </div>
 
 # ✨ Output Snapshots
-<div align="center"> <img src="https://github.com/Syed-Moinuddin2025/python_Journey/blob/main/02_Blinkit_Project_Python/Images/bestSaleingItemes.png" width="400"> </div>
+<div align="center"> <img src="https://github.com/Syed-Moinuddin2025/python_projects_analyses/blob/main/03_Blinkit_Analysis/Images/bestSaleingItemes.png" width="400"> </div>
 
 ## 🔚 Conclusion
 ### This Blinkit analysis uncovers key insights into how different outlet types, item categories, and customer behavior impact overall sales. These findings can help stakeholders take informed decisions for # product stocking, outlet expansion, and marketing strategies.
 
-<div align="center"> <img src="https://github.com/Syed-Moinuddin2025/python_Journey/blob/main/02_Blinkit_Project_Python/Images/blinkit.png " alt="Blinkit Project Banner" width="500"> </div>
+<div align="center"> <img src="https://github.com/Syed-Moinuddin2025/python_projects_analyses/blob/main/03_Blinkit_Analysis/Images/Bimage.png" alt="Blinkit Project Banner" width="500"> </div>
 🙋‍♂️ Author
 
 ## Syed Moinuddin
