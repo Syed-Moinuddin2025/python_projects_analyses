@@ -101,7 +101,7 @@ Run each cell to explore insights.
 ## 🔚 Conclusion
 ### This Blinkit analysis uncovers key insights into how different outlet types, item categories, and customer behavior impact overall sales. These findings can help stakeholders take informed decisions for # product stocking, outlet expansion, and marketing strategies.
 
-<div align="center"> <img src="https://github.com/Syed-Moinuddin2025/python_Journey/blob/main/02_Blinkit_Project_Python/Images/blinkit.png " alt="Blinkit Project Banner" width="500"> </div>
+<div align="center"> <img src="https://github.com/Syed-Moinuddin2025/python_projects_analyses/blob/main/03_Blinkit_Analysis/Images/Bimage.png" alt="Blinkit Project Banner" width="500"> </div>
 🙋‍♂️ Author
 
 ## Syed Moinuddin
