@@ -3,13 +3,9 @@
   <img src="https://github.com/Syed-Moinuddin2025/python_projects_analyses/blob/main/7_Netflix_Data_Analysis/Images/N.png" width="800">
 </div>
 
-
-
 ## A Python data analysis project exploring trends in a Netflix-style movie dataset — including popularity, genres, voting patterns, and release years.
 
----
-
-## 📌 Project Overview
+ ## 📌 Project Overview
 
 This project analyzes a movie dataset (`mymoviedb.csv`) using Python libraries like **pandas**, **matplotlib**, and **seaborn**.  
 The goal is to extract meaningful insights and trends based on:
