@@ -7,7 +7,7 @@
       <br><sub>🔄 Project in Action (GIF)</sub>
     </td>
     <td align="right">
-      <img src="https://raw.githubusercontent.com/Syed-Moinuddin2025/python_Journey/main/02_Blinkit_Project_Python/Images/blinkit.png" width="1000">
+      <img src="https://github.com/Syed-Moinuddin2025/python_projects_analyses/blob/main/03_Blinkit_Analysis/Images/blinkit.png" width="1000">
       <br><sub>📊 Project Banner</sub>
     </td>
   </tr>
