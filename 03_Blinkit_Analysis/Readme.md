@@ -1,17 +1,5 @@
 # 📦 Blinkit_Analysis_Project
  
- <table>
-  <tr>
-    <td align="left">
-      <img src="https://github.com/Syed-Moinuddin2025/python_projects_analyses/blob/main/03_Blinkit_Analysis/Images/blinkit.gif" width="500">
-      <br><sub>🔄 Project in Action (GIF)</sub>
-    </td>
-    <td align="right">
-      <img src="https://github.com/Syed-Moinuddin2025/python_projects_analyses/blob/main/03_Blinkit_Analysis/Images/blinkit.png" width="1000">
-      <br><sub>📊 Project Banner</sub>
-    </td>
-  </tr>
-</table>
 
 
 ## 🧠 About the Project
