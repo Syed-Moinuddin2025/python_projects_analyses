@@ -1,0 +1,77 @@
+# Python caches & bytecode
+__pycache__/
+*.py[cod]
+*.so
+*.vscode
+# Virtual environments
+.env/
+.venv/
+.conda/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Database / SQL temp files
+*.db
+*.sqlite3
+*.sql~
+*.bak
+
+# Logs & temporary files
+*.log
+*~ 
+*.tmp
+
+# Editors & IDEs
+.vscode/
+.settings/
+.idea/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Python packaging
+*.egg-info/
+
+.tox/
+dist/   
+build/
+.eggs/  
+# Coverage reports
+.coverage   
+.coverage.*
+.cache/
+# Pytest cache
+.pytest_cache/  
+# Sphinx documentation
+docs/_build/    
+# PyInstaller
+*.spec
+# Pyre type checker
+.pyre/  
+# MyPy
+.mypy_cache/
+# Bandit security tool
+.bandit/
+# PyLint
+.pylint.d/
+# Pyright
+.pyright/
+# Cython debug symbols
+cython_debug/
+# Jupyter Notebook
+.ipynb_checkpoints/
+# PyCharm
+.idea/
+# VS Code
+.vscode/
+# Pytest
+.pytest_cache/
+# Coverage.py
+.coverage
+.coverage.* 
+# PyInstaller    
+
+zomato.csvzomato.csv
+zomato.csv
