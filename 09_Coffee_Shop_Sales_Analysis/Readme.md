@@ -3,9 +3,9 @@
 
 ![Coffee Banner](https://github.com/Syed-Moinuddin2025/python_projects_analyses/blob/main/09_Coffee_Shop_Sales_Analysis/Images/coffee%20(1).png)
 
-![Coffee Shop Banner](https://github.com/Syed-Moinuddin2025/python_projects_analyses/blob/main/09_Coffee_Shop_Sales_Analysis/Images/coffee%20(2).png)
 
-![Coffee Shop Banner](https://github.com/Syed-Moinuddin2025/python_projects_analyses/blob/main/09_Coffee_Shop_Sales_Analysis/Images/coffee%20(3).png)
+
+
 
 A full-scale **Retail Data Analysis Project** uncovering patterns, trends, and insights from 149,000+ coffee shop transactions across months and store locations — powered by **pandas**, **matplotlib**, and **seaborn**.
 
@@ -56,7 +56,7 @@ A full-scale **Retail Data Analysis Project** uncovering patterns, trends, and i
 | Q15 | 🌤️ Seasonal product demand (Jan–June)                                    |
 
 ---
-
+![Coffee Shop Banner](https://github.com/Syed-Moinuddin2025/python_projects_analyses/blob/main/09_Coffee_Shop_Sales_Analysis/Images/coffee%20(2).png)
 ## 🎁 Bonus Visualizations
 
 | Type         | Description                             |
@@ -66,7 +66,7 @@ A full-scale **Retail Data Analysis Project** uncovering patterns, trends, and i
 | 📦 Bar Plots | Top 10 Products (by Quantity & Revenue) |
 
 ---
-
+![Coffee Shop Banner](https://github.com/Syed-Moinuddin2025/python_projects_analyses/blob/main/09_Coffee_Shop_Sales_Analysis/Images/coffee%20(3).png)
 ## 📊 KPIs & Insights
 
 - **Total Revenue**: $X,XXX,XXX  
