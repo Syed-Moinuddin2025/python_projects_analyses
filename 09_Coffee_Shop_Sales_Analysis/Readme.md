@@ -37,6 +37,20 @@ A full-scale **Retail Data Analysis Project** uncovering patterns, trends, and i
 
 ## ✅ Business Questions Answered
 
+### 💰 Total Revenue Generated
+
+> The total revenue generated from January to June across all stores.
+
+![Revenue Chart](https://github.com/Syed-Moinuddin2025/python_projects_analyses/blob/main/09_Coffee_Shop_Sales_Analysis/Images/Revenue.png)
+
+
+
+### 💼  Most Profitable Product Category
+
+> This chart highlights which product category generated the highest total revenue.
+
+![Most Profitable Category](https://github.com/Syed-Moinuddin2025/python_projects_analyses/blob/main/09_Coffee_Shop_Sales_Analysis/Images/profit.png)
+
 | No. | Question                                                                 |
 |-----|--------------------------------------------------------------------------|
 | Q1  | 💰 What is the total revenue generated?                                  |
@@ -57,6 +71,7 @@ A full-scale **Retail Data Analysis Project** uncovering patterns, trends, and i
 
 ---
 ![Coffee Shop Banner](https://github.com/Syed-Moinuddin2025/python_projects_analyses/blob/main/09_Coffee_Shop_Sales_Analysis/Images/coffee%20(2).png)
+
 ## 🎁 Bonus Visualizations
 
 | Type         | Description                             |
@@ -64,9 +79,20 @@ A full-scale **Retail Data Analysis Project** uncovering patterns, trends, and i
 | 🔥 Heatmap   | Hour vs Weekday Order Distribution      |
 | 🥧 Pie Chart | Revenue Share by Product Category       |
 | 📦 Bar Plots | Top 10 Products (by Quantity & Revenue) |
+### 💸Top 10 Popular Products by Revenue
+
+> These products generated the most revenue overall, making them key drivers of business income.
+
+![Top Revenue Products](https://github.com/Syed-Moinuddin2025/python_projects_analyses/blob/main/09_Coffee_Shop_Sales_Analysis/Images/pro.png)
+
+### AOV by Product Category
+
+> Average Order Value differs across product categories — a useful metric for pricing strategies.
+
+![Category AOV](https://github.com/Syed-Moinuddin2025/python_projects_analyses/blob/main/09_Coffee_Shop_Sales_Analysis/Images/pro.png)
 
 ---
-![Coffee Shop Banner](https://github.com/Syed-Moinuddin2025/python_projects_analyses/blob/main/09_Coffee_Shop_Sales_Analysis/Images/coffee%20(3).png)
+
 ## 📊 KPIs & Insights
 
 - **Total Revenue**: $X,XXX,XXX  
@@ -95,3 +121,4 @@ A full-scale **Retail Data Analysis Project** uncovering patterns, trends, and i
 ├── Coffee_Shop_Sales_Analysis.ipynb
 ├── images/
 └── README.md
+![Coffee Shop Banner](https://github.com/Syed-Moinuddin2025/python_projects_analyses/blob/main/09_Coffee_Shop_Sales_Analysis/Images/coffee%20(3).png)
