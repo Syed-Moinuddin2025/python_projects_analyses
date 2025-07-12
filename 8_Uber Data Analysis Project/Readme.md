@@ -1,5 +1,6 @@
 # 🚕 08_Uber_Mobility_Analytics
 
+![Uber_Car](https://github.com/Syed-Moinuddin2025/python_projects_analyses/blob/main/8_Uber%20Data%20Analysis%20Project/Images/ub.png?raw=true)
 
 A detailed data analysis project exploring user behavior, ride patterns, time trends, and distance insights based on Uber ride data. This project transforms raw ride logs into actionable business and operational insights using Python and data visualization.
 
