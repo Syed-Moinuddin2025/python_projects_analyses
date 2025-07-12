@@ -51,7 +51,7 @@ What is the average distance (in miles) people travel using Uber?
 
 ### 🚕 Booking Trend Chart
 
-![Booking Trend](https://github.com/Syed-Moinuddin2025/python_projects_analyses/blob/main/8_Uber_%20Analysis/Images/booking.png?raw=true)
+![Booking Trend](https://github.com/Syed-Moinuddin2025/python_projects_analyses/blob/main/8_Uber%20Data%20Analysis%20Project/Images/booking.png?raw=true)
 
 ### 📊 Uber Ride Purpose Chart
 
