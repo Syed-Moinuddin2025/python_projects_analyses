@@ -46,7 +46,13 @@ What is the average distance (in miles) people travel using Uber?
 🥧 Pie Chart – Percentage share of each ride purpose
 
 📉 Line Chart – Monthly booking trend
+--
+### 🚕 Booking Trend Chart
+![Booking Trend](https://github.com/Syed-Moinuddin2025/python_projects_analyses/blob/main/8_Uber_%20Analysis/Images/booking.png?raw=true)
 
+### 📊 Uber Ride Purpose Chart
+![Ride Purpose](https://github.com/Syed-Moinuddin2025/python_projects_analyses/blob/main/8_Uber_%20Analysis/Images/uber1.png?raw=true)
+--
 # 🧰 Tools & Technologies Used
 Python 3.9+
 
