@@ -1,5 +1,6 @@
 # 🚕 08_Uber_Mobility_Analytics
 
+
 A detailed data analysis project exploring user behavior, ride patterns, time trends, and distance insights based on Uber ride data. This project transforms raw ride logs into actionable business and operational insights using Python and data visualization.
 
 📂 Dataset
@@ -46,7 +47,15 @@ What is the average distance (in miles) people travel using Uber?
 🥧 Pie Chart – Percentage share of each ride purpose
 
 📉 Line Chart – Monthly booking trend
+--
 
+
+### 🚕 Booking Trend Chart
+![Booking Trend](https://github.com/Syed-Moinuddin2025/python_projects_analyses/blob/main/8_Uber_%20Analysis/Images/booking.png?raw=true)
+
+### 📊 Uber Ride Purpose Chart
+![Ride Purpose](https://github.com/Syed-Moinuddin2025/python_projects_analyses/blob/main/8_Uber_%20Analysis/Images/uber1.png?raw=true)
+--
 # 🧰 Tools & Technologies Used
 Python 3.9+
 
@@ -67,14 +76,13 @@ Popular pickup and drop-off locations cluster around certain city hubs.
 
 Clear monthly dips and spikes indicate seasonal or event-driven ride behavior.
 
-📁 Project Folder Structure
+# 📁 Project Folder Structure
 
-Uber_Mobility_Analytics/
-│
-├── Uber_Data_SM.csv               # Cleaned Uber dataset
-├── 08_Uber_Mobility_Analytics.ipynb   # Final notebook with analysis
-├── /Images                        # Folder for exported charts (optional)
-└── README.md                      # Project readme (this file)
+## Uber_Mobility_Analytics/
+## ├── Uber_Data_SM.csv               
+## ├── 08_Uber_Mobility_Analytics.ipynb    
+## ├── /Images                        
+## └── README.md                       
 
 
 ---
