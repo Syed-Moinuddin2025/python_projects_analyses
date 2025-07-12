@@ -77,14 +77,13 @@ Popular pickup and drop-off locations cluster around certain city hubs.
 
 Clear monthly dips and spikes indicate seasonal or event-driven ride behavior.
 
-📁 Project Folder Structure
+# 📁 Project Folder Structure
 
-Uber_Mobility_Analytics/
-│
-├── Uber_Data_SM.csv               # Cleaned Uber dataset
-├── 08_Uber_Mobility_Analytics.ipynb   # Final notebook with analysis
-├── /Images                        # Folder for exported charts (optional)
-└── README.md                      # Project readme (this file)
+## Uber_Mobility_Analytics/
+## ├── Uber_Data_SM.csv               
+## ├── 08_Uber_Mobility_Analytics.ipynb    
+## ├── /Images                        
+## └── README.md                       
 
 
 ---
