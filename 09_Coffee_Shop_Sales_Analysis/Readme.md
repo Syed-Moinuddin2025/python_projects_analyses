@@ -1,5 +1,15 @@
 # ☕ Coffee Shop Sales Analysis (Python Project)
 
+
+![Coffee Banner](https://github.com/Syed-Moinuddin2025/python_projects_analyses/blob/main/09_Coffee_Shop_Sales_Analysis/Images/coffee%20(1).png)
+
+![Coffee Shop Banner](https://github.com/Syed-Moinuddin2025/python_projects_analyses/blob/main/09_Coffee_Shop_Sales_Analysis/Images/coffee%20(2).png)
+
+![Coffee Shop Banner](https://github.com/Syed-Moinuddin2025/python_projects_analyses/blob/main/09_Coffee_Shop_Sales_Analysis/Images/coffee%20(3).png)
+
+A full-scale **Retail Data Analysis Project** uncovering patterns, trends, and insights from 149,000+ coffee shop transactions across months and store locations — powered by **pandas**, **matplotlib**, and **seaborn**.
+
+
 ![Python](https://img.shields.io/badge/Built%20With-Python-blue?logo=python)
 ![Status](https://img.shields.io/badge/Project-Complete-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
