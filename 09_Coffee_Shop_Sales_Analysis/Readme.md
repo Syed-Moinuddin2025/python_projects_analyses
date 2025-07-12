@@ -116,9 +116,9 @@ A full-scale **Retail Data Analysis Project** uncovering patterns, trends, and i
 
 ## 🗂️ Project Structure
 
-📁 Coffee_Shop_Sales_Analysis/
-├── cleaned_coffee_sales.csv
-├── Coffee_Shop_Sales_Analysis.ipynb
-├── images/
-└── README.md
+## 📁 Coffee_Shop_Sales_Analysis/
+## ├── cleaned_coffee_sales.csv
+## ├── Coffee_Shop_Sales_Analysis.ipynb
+## ├── images/
+### └── README.md
 ![Coffee Shop Banner](https://github.com/Syed-Moinuddin2025/python_projects_analyses/blob/main/09_Coffee_Shop_Sales_Analysis/Images/coffee%20(3).png)
