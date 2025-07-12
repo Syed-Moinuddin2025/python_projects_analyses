@@ -59,9 +59,9 @@ What is the average distance (in miles) people travel using Uber?
 
 ### 🎞️ Animated Uber Trip Visual
 
-![Uber Animated GIF](https://github.com/Syed-Moinuddin2025/python_projects_analyses/blob/main/8_Uber_%20Analysis/Images/Uber.gif?raw=true)
+![Uber Animated GIF](https://github.com/Syed-Moinuddin2025/python_projects_analyses/blob/main/8_Uber%20Data%20Analysis%20Project/Images/Uber.gif?raw=true)
 
-
+                          
 --
 # 🧰 Tools & Technologies Used
 Python 3.9+
