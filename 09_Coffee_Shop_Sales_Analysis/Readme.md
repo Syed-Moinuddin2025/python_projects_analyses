@@ -84,7 +84,4 @@ A full-scale **Retail Data Analysis Project** uncovering patterns, trends, and i
 ├── cleaned_coffee_sales.csv
 ├── Coffee_Shop_Sales_Analysis.ipynb
 ├── images/
-│ ├── q5_monthly_sales.png
-│ ├── q10_hourly_sales.png
-│ └── ...
 └── README.md
