@@ -57,7 +57,7 @@
 - Dual-axis plots (hourly behavior)
 - Scatter plot (correlation)
 - Radar chart (multi-metric channel performance)
-
+![Chart](https://github.com/Syed-Moinuddin2025/python_projects_analyses/blob/main/11_Website%20analysis%20project/Images/H_Sessions.png)
 ---
 
 ## 📌 Key Insights
