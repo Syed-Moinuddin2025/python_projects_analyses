@@ -1,3 +1,4 @@
+
 # ✈️ Flight Performance Analysis 
 
 ![Planes](https://github.com/Syed-Moinuddin2025/python_projects_analyses/blob/main/10_Flight_Performance_Analysis/Images/Planes.png)
@@ -58,6 +59,7 @@ On-time performance comparison
 Longest routes by distance
 
 ![Busuest](https://github.com/Syed-Moinuddin2025/python_projects_analyses/blob/main/10_Flight_Performance_Analysis/Images/busiesFlightsRoutes.png)
+
 # 📌 Insights Gained
 Hawaiian Airlines flies the longest route (JFK ➝ HNL)
 
@@ -66,8 +68,9 @@ Some carriers consistently outperform others in on-time performance
 Delay patterns vary by time of day and airport
 
 Certain routes are more prone to delays due to congestion or distance
+![On_Time](https://github.com/Syed-Moinuddin2025/python_projects_analyses/blob/main/10_Flight_Performance_Analysis/Images/on_time.png)
 
-📂 Project Structure
+# 📂 Project Structure
 # 10_Flight_Performance_Analysis/
 ## │
 ## ├── flight_data.csv           # Cleaned dataset
