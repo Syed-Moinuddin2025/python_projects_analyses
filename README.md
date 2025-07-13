@@ -73,8 +73,8 @@
 ## 🌐 Author
 
 **Syed Moinuddin**  
-📘 GitHub: [@Syed-Moinuddin2025](https://github.com/Syed-Moinuddin2025)  
-🎥 YouTube Projects: *Linked inside each folder*
+## 📘 GitHub: [@Syed-Moinuddin2025](https://github.com/Syed-Moinuddin2025)  
+
 
 ---
 
