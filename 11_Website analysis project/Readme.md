@@ -48,7 +48,7 @@
 🔟 Which channels generate more actions/events per session, and how can this inform content or campaign strategy?
 
 ---
-
+![Chart](https://github.com/Syed-Moinuddin2025/python_projects_analyses/blob/main/11_Website%20analysis%20project/Images/Engagement.png)
 ## 📈 Visualizations Included
 
 - Line charts (time trends)
