@@ -1,6 +1,7 @@
 # 🐍 Python Projects Analyses
-
-A curated collection of real-world data analysis projects using **Python** libraries such as **Pandas**, **Matplotlib**, **Seaborn**, and more.  
+![Python_Projects](https://github.com/Syed-Moinuddin2025/python_projects_analyses/blob/main/projects.gif)
+--
+## A curated collection of real-world data analysis projects using **Python** libraries such as **Pandas**, **Matplotlib**, **Seaborn**, and more.  
 Each project answers key business questions using data, visualizations, KPIs, and actionable insights.
 
 ---
