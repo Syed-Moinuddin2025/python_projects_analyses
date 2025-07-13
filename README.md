@@ -22,7 +22,7 @@ Each project answers key business questions using data, visualizations, KPIs, an
 | 🔟 | [10_Flight_Performance_Analysis](./10_Flight_Performance_Analysis) | Flight delays and airline performance metrics using US airport and carrier data. |
 
 ---
-
+![Python](https://github.com/Syed-Moinuddin2025/python_projects_analyses/blob/main/Python.png)
 ## 🚀 Tech Stack Used
 
 - **Python**
