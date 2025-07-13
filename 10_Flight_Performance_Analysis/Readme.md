@@ -80,6 +80,6 @@ Certain routes are more prone to delays due to congestion or distance
 
 # 👨‍💻 Author
 ## Syed Moin
-🔗 LinkedIn
-# 📁 [GitHub Projects Link](https://github.com/Syed-Moinuddin2025/python_projects_analyses)
+## 🔗 [LinkedIn](https://www.linkedin.com/in/syed-moin-hr)
+## 📁 [GitHub Projects Link](https://github.com/Syed-Moinuddin2025/python_projects_analyses)
 
