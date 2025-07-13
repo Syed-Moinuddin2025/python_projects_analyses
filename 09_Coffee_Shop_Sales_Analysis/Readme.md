@@ -1,11 +1,6 @@
-# ☕ Coffee Shop Sales Analysis (Python Project)
 
-
-![Coffee Banner](https://github.com/Syed-Moinuddin2025/python_projects_analyses/blob/main/09_Coffee_Shop_Sales_Analysis/Images/coffee%20(1).png)
-
-
-
-
+# ☕ Welcome to Coffee Shop Sales Analysis (Python Project)
+![Coffee](https://github.com/Syed-Moinuddin2025/python_projects_analyses/blob/main/09_Coffee_Shop_Sales_Analysis/Images/coffee.gif)
 
 A full-scale **Retail Data Analysis Project** uncovering patterns, trends, and insights from 149,000+ coffee shop transactions across months and store locations — powered by **pandas**, **matplotlib**, and **seaborn**.
 
@@ -37,20 +32,6 @@ A full-scale **Retail Data Analysis Project** uncovering patterns, trends, and i
 
 ## ✅ Business Questions Answered
 
-### 💰 Total Revenue Generated
-
-> The total revenue generated from January to June across all stores.
-
-![Revenue Chart](https://github.com/Syed-Moinuddin2025/python_projects_analyses/blob/main/09_Coffee_Shop_Sales_Analysis/Images/Revenue.png)
-
-
-
-### 💼  Most Profitable Product Category
-
-> This chart highlights which product category generated the highest total revenue.
-
-![Most Profitable Category](https://github.com/Syed-Moinuddin2025/python_projects_analyses/blob/main/09_Coffee_Shop_Sales_Analysis/Images/profit.png)
-
 | No. | Question                                                                 |
 |-----|--------------------------------------------------------------------------|
 | Q1  | 💰 What is the total revenue generated?                                  |
@@ -68,9 +49,15 @@ A full-scale **Retail Data Analysis Project** uncovering patterns, trends, and i
 | Q13 | 🔥 Heatmap: Hour vs Weekday (Orders)                                     |
 | Q14 | 💼 Most profitable product category                                      |
 | Q15 | 🌤️ Seasonal product demand (Jan–June)                                    |
+---
+### 💰 Total Revenue Generated
+
+> The total revenue generated from January to June across all stores.
+
+![Revenue Chart](https://github.com/Syed-Moinuddin2025/python_projects_analyses/blob/main/09_Coffee_Shop_Sales_Analysis/Images/Revenue.png)
 
 ---
-![Coffee Shop Banner](https://github.com/Syed-Moinuddin2025/python_projects_analyses/blob/main/09_Coffee_Shop_Sales_Analysis/Images/coffee%20(2).png)
+
 
 ## 🎁 Bonus Visualizations
 
@@ -79,6 +66,14 @@ A full-scale **Retail Data Analysis Project** uncovering patterns, trends, and i
 | 🔥 Heatmap   | Hour vs Weekday Order Distribution      |
 | 🥧 Pie Chart | Revenue Share by Product Category       |
 | 📦 Bar Plots | Top 10 Products (by Quantity & Revenue) |
+
+---
+### 💼  Most Profitable Product Category
+
+> This chart highlights which product category generated the highest total revenue.
+
+![Most Profitable Category](https://github.com/Syed-Moinuddin2025/python_projects_analyses/blob/main/09_Coffee_Shop_Sales_Analysis/Images/profit.png)
+![Coffee Shop Banner](https://github.com/Syed-Moinuddin2025/python_projects_analyses/blob/main/09_Coffee_Shop_Sales_Analysis/Images/coffee%20(2).png)
 ### 💸Top 10 Popular Products by Revenue
 
 > These products generated the most revenue overall, making them key drivers of business income.
