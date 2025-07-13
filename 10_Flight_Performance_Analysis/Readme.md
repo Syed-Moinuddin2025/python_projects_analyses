@@ -29,22 +29,25 @@ Handled NaN values in delay and air time columns
 Created new columns like route, dep_hour for analysis
 
 # 📊 Business Questions Answered
-No.	Question
-Q1	Which airline has the highest average departure delay?
-Q2	Which routes (origin ➝ destination) are the busiest?
-Q3	Which airline has the longest average air time?
-Q4	What time of day sees the most flight departures?
-Q5	Which origin airport is the busiest?
-Q6	Which airlines have the highest average arrival delays?
-Q7	Which flights cover the longest distances?
-Q8	Which routes have the highest average arrival delays?
-Q9	Which airline operates the most flights?
-Q10	How many flights are delayed by more than 1 hour?
-Q11	How many flights arrived on time or earlier?
-Q12	What is the on-time percentage per airline?
-Q13	Which destination airports have the most delayed arrivals?
-Q14	Which airlines cover the longest average flight distances?
+## No.	Question
+## Q1	Which airline has the highest average departure delay?
+## Q2	Which routes (origin ➝ destination) are the busiest?
+## Q3	Which airline has the longest average air time?
+## Q4	What time of day sees the most flight departures?
+## Q5	Which origin airport is the busiest?
+## Q6	Which airlines have the highest average arrival delays?
+## Q7	Which flights cover the longest distances?
+## Q8	Which routes have the highest average arrival delays?
+## Q9	Which airline operates the most flights?
+## Q10	How many flights are delayed by more than 1 hour?
+## Q11	How many flights arrived on time or earlier?
+## Q12	What is the on-time percentage per airline?
+## Q13	Which destination airports have the most delayed arrivals?
+## Q14	Which airlines cover the longest average flight distances?
 
+---
+![Top 10](https://github.com/Syed-Moinuddin2025/python_projects_analyses/blob/main/10_Flight_Performance_Analysis/Images/Top10Airlines.png)
+---
 # 📈 Key Visualizations
 Bar charts for delays, flight volume, and route analysis
 
