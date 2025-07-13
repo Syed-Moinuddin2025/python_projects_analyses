@@ -1,6 +1,8 @@
 # 🌐 Website Traffic & Engagement Analysis (Python Project)
 
-This project explores website traffic and engagement behavior using session-based analytics data. The goal is to uncover key insights from user activity, traffic sources, and engagement metrics using Python.
+![Website_Traffic](https://github.com/Syed-Moinuddin2025/python_projects_analyses/blob/main/11_Website%20analysis%20project/Images/web.png)
+
+## This project explores website traffic and engagement behavior using session-based analytics data. The goal is to uncover key insights from user activity, traffic sources, and engagement metrics using Python.
 
 ---
 
