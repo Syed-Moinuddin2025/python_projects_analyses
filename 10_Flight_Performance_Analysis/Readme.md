@@ -79,7 +79,7 @@ Certain routes are more prone to delays due to congestion or distance
 ## └── README.md                 # This summary file
 
 # 👨‍💻 Author
-Syed Moin
+## Syed Moin
 🔗 LinkedIn
-📁 GitHub Project Link
+# 📁 [GitHub Projects Link](https://github.com/Syed-Moinuddin2025/python_projects_analyses)
 
