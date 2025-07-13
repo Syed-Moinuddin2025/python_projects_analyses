@@ -1,5 +1,9 @@
-# ☕ Coffee Shop Sales Analysis (Python Project)
 
+# ☕ Welcome to Coffee Shop Sales Analysis (Python Project)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Syed-Moinuddin2025/python_projects_analyses/main/09_Coffee_Shop_Sales_Analysis/Images/coffee.gif" width="600"/>
+</p>
 
 ![Coffee Banner](https://github.com/Syed-Moinuddin2025/python_projects_analyses/blob/main/09_Coffee_Shop_Sales_Analysis/Images/coffee%20(1).png)
 
