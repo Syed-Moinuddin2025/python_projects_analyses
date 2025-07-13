@@ -1,4 +1,7 @@
-# ✈️ Flight Performance Analysis Project
+# ✈️ Flight Performance Analysis 
+
+![Planes](https://github.com/Syed-Moinuddin2025/python_projects_analyses/blob/main/10_Flight_Performance_Analysis/Images/Planes.png)
+
 Project Folder: 10_Flight_Performance_Analysis
 Tool Used: Python (Jupyter Notebook) | Libraries: pandas, matplotlib, seaborn
 
