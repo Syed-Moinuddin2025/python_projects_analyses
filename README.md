@@ -1,47 +1,87 @@
 # 🐍 Python Projects Analyses
 
-A curated collection of real-world data analysis projects using **Python** libraries such as **Pandas**, **Matplotlib**, **Seaborn**, and more.  
-Each project answers key business questions using data, visualizations, KPIs, and actionable insights.
+📊 A curated collection of real-world data analysis projects using Python (Pandas, Matplotlib, Seaborn, and more). Each project includes powerful visualizations, KPIs, and actionable insights.
 
 ---
 
-## 📁 Projects Overview
+## 📂 Projects Included
 
-| No. | Project Name | Description |
-|:--:|:-------------|:------------|
-| 1️⃣ | [01_Apple_Store_Analysis](./01_Apple_Store_Analysis) | Insights from Apple Store data such as sales, categories, countries, and warranty patterns. |
-| 2️⃣ | [02_Diwali_Sales_Analysis](./02_Diwali_Sales_Analysis) | Retail insights from Diwali festival shopping — customer behavior, product performance, and revenue trends. |
-| 3️⃣ | [03_Blinkit_Analysis](./03_Blinkit_Analysis) | Blinkit (quick commerce) analysis focusing on products, pricing, and delivery patterns. |
-| 4️⃣ | [04_Ecommerce_Sales_Analysis](./04_Ecommerce_Sales_Analysis) | Sales, profit, and product trends from an e-commerce store’s transaction data. |
-| 5️⃣ | [05_Pizza_Sales_Analysis](./05_Pizza_Sales_Analysis) | Deep dive into pizza orders — top sellers, peak hours, revenue KPIs, and customer preferences. |
-| 6️⃣ | [06_Zomato_Clean_Project](./06_Zomato_Clean_Project) | Cleaned Zomato restaurant dataset for further modeling or visualization. |
-| 7️⃣ | [07_Netflix_Data_Analysis](./07_Netflix_Data_Analysis) | Netflix data analysis on movie types, viewer trends, popular genres, and release patterns. |
-| 8️⃣ | [08_Uber Data Analysis Project](./08_Uber%20Data%20Analysis%20Project) | Uber ride data insights like booking times, trip purpose, distance, and weekday trends. |
-| 9️⃣ | [09_Coffee_Shop_Sales_Analysis](./09_Coffee_Shop_Sales_Analysis) | Coffee shop performance — product-wise sales, seasonal trends, and customer patterns. |
-| 🔟 | [10_Flight_Performance_Analysis](./10_Flight_Performance_Analysis) | Flight delays and airline performance metrics using US airport and carrier data. |
+### 📱 01. Apple Store Analytics
+- Analyze apps based on ratings, size, and categories
+- Identify top categories and pricing strategies
+- 📊 Tools: Pandas, Matplotlib, Seaborn
+
+➡️ [View Project](./01_Apple_Store_Analysis) 
 
 ---
 
-## 🚀 Tech Stack Used
+### 🪔 02. Diwali Sales Analysis
+- Customer segmentation by gender, state, age group
+- Product performance insights
+- 📊 Tools: Pandas, Matplotlib, Seaborn
 
-- **Python**
-- **Pandas**, **NumPy**
-- **Matplotlib**, **Seaborn**
-- **Jupyter Notebook**
-- **CSV Data Cleaning & Visualization**
+➡️ [View Project](./02_Diwali_Sales_Analysis)
 
 ---
 
-## 🔗 Author & Links
+### 🛒 03. Blinkit Analysis
+- Category-wise sales, top cities and product performance
+- Trend charts and order behavior
+- 📊 Tools: Pandas, Seaborn, Matplotlib
+
+➡️ [View Project](./03_Blinkit_Analysis)
+
+---
+
+### 🛍️ 04. E-commerce Sales Analysis
+- Payment methods, top-selling categories, city trends
+- Customer order frequency & heatmaps
+- 📊 Tools: Pandas, Matplotlib, Seaborn
+
+➡️ [View Project](./04_Ecommerce_Sales_Analysis)
+
+---
+
+### 🍕 05. Pizza Sales Analysis
+- Analyze top-selling pizzas, peak hours, revenue
+- Weekly & monthly trends with advanced visuals
+- 📊 Tools: Pandas, Seaborn, Matplotlib
+
+➡️ [View Project](./05_Pizza_Sales_Analysis)
+
+---
+
+### 🍽️ 06. Zomato Bangalore Restaurant Analysis
+- Wordclouds, online orders vs ratings, location insights
+- Clean notebook without large CSV
+- 📊 Tools: Pandas, WordCloud, Seaborn
+
+➡️ [View Project](./06_Zomato_Clean_Project)
+
+---
+
+## 🧠 Skills Used
+
+- Python (Pandas, Numpy)
+- Data Cleaning & Preprocessing
+- Data Visualization (Matplotlib, Seaborn)
+- Exploratory Data Analysis (EDA)
+- Jupyter Notebook
+
+---
+
 ## 🌐 Author
-**Syed Moinuddin** 
 
-👨‍💻 [Syed Moin on LinkedIn](https://www.linkedin.com/in/syed-moin-hr)  
-📁 [GitHub Projects Repository](https://github.com/Syed-Moinuddin2025/python_projects_analyses)
+**Syed Moinuddin**  
+📘 GitHub: [@Syed-Moinuddin2025](https://github.com/Syed-Moinuddin2025)  
+🎥 YouTube Projects: *Linked inside each folder*
 
 ---
 
-> # 🌟 Don't forget to star the repository if you find these analyses useful!
+## 📌 Note
+
+Large datasets (like `zomato.csv` ~547 MB) are excluded from GitHub due to file size limit.  
+Datasets are sourced from Kaggle or Google Drive (links provided inside individual folders).
 
 ---
 
