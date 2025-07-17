@@ -1,4 +1,4 @@
-# 📋 Apple Store Analytics – Questions (Temporary Notes)
+# 📋 Apple Store Analytics – Questions 
 
 ## 📊 Sales Analysis
 
