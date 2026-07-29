@@ -57,6 +57,9 @@ The goal is to extract meaningful insights and trends based on:
   <img src="https://raw.githubusercontent.com/Syed-Moinuddin2025/python_projects_analyses/main/7_Netflix_Data_Analysis/Images/Q1_top_10_popular_movies.png" width="800">
 </div>
 
+  <img src="https://raw.githubusercontent.com/Syed-Moinuddin2025/python_projects_analyses/main/07_Netflix_Data_Analysis/Images/Q1_top_10_popular_movies.png" width="800">
+
+
 ---
 
 ### 📊 Q2: Total Votes by Genre
