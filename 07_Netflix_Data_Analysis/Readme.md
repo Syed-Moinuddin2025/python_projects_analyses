@@ -1,6 +1,6 @@
 # 🎬 7_Netflix_Data_Analysis
 <div align="center">
-  <img src="07_Netflix_Data_Analysis/Images/N.png" alt="Netflix Analysis">
+  <img src="https://raw.githubusercontent.com/Syed-Moinuddin2025/python_projects_analyses/main/07_Netflix_Data_Analysis/Images/N.png" alt="Netflix Analysis" width="800">
 </div>
 
 ## A Python data analysis project exploring trends in a Netflix-style movie dataset — including popularity, genres, voting patterns, and release years.
