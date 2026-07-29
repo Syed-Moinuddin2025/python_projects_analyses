@@ -68,6 +68,8 @@ The goal is to extract meaningful insights and trends based on:
   <img src="https://raw.githubusercontent.com/Syed-Moinuddin2025/python_projects_analyses/main/7_Netflix_Data_Analysis/Images/Q2_genre_total_votes.png" width="800">
 </div>
 
+ <img src="https://raw.githubusercontent.com/Syed-Moinuddin2025/python_projects_analyses/main/07_Netflix_Data_Analysis/Images/Q2_genre_total_votes.png" width="800">
+ 
 ---
 
 ### 📊 Q5: Movies Released by Year
